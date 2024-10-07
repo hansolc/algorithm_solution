@@ -1,4 +1,4 @@
-//====================================================== incorrect
+//====================================================== 1) incorrect
 
 function solution(sequence, k) {
   const rangeSum = [0];
@@ -20,7 +20,7 @@ function solution(sequence, k) {
   return answer[0];
 }
 
-//====================================================== incorrect
+//====================================================== 2) incorrect
 
 function solution(sequence, k) {
   const rangeSum = [0];
