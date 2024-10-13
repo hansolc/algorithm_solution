@@ -1,6 +1,6 @@
-# [level:2] 모음사전
+# [level:2] 타겟넘버
 
-[문제](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 
 ### 시간복잡도
 
